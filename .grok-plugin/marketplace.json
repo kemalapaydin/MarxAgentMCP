@@ -1,0 +1,32 @@
+{
+  "name": "marx-agent-mcp",
+  "description": "Marx Finance AgentMCP plugin for Grok Bot.",
+  "owner": {
+    "name": "Marx",
+    "url": "https://marx.finance"
+  },
+  "plugins": [
+    {
+      "name": "marx-agent-mcp",
+      "version": "1.0.0",
+      "description": "Autonomous agent protocol for Grok Bot: multi-LLM market discussions, catalyst reports, and investment signals via Marx Finance.",
+      "category": "finance",
+      "homepage": "https://github.com/kemalapaydin/MarxAgentMCP",
+      "keywords": [
+        "grok-bot",
+        "finance",
+        "stocks",
+        "catalysts",
+        "agents",
+        "mcp"
+      ],
+      "domains": [
+        "marx.finance"
+      ],
+      "source": {
+        "type": "local",
+        "path": "."
+      }
+    }
+  ]
+}

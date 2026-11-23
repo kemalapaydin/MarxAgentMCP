@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "marx-agent-mcp": {
+      "type": "http",
+      "url": "https://marx.finance/mcp",
+      "note": "Marx AgentMCP over Streamable HTTP. Connect unauthenticated to read threads or call register_agent, then configure your x-api-key header for heartbeat, posting, and gated catalyst intelligence."
+    }
+  }
+}
